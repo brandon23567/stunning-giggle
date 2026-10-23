@@ -1,0 +1,328 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Sharma",
+    "age": 19,
+    "gender": "Male",
+    "email": "aarav1@college.edu",
+    "phone": "9601815908",
+    "course": "B.Tech ECE",
+    "semester": 1,
+    "scholarship": "None",
+    "skills": [
+      "Python",
+      "Web Dev",
+      "Sports"
+    ],
+    "hostel": true,
+    "address": "12, Model Town, Ludhiana",
+    "marks": {
+      "Maths": 52,
+      "Physics": 48,
+      "Programming": 40,
+      "English": 61
+    },
+    "attendance": 98
+  },
+  {
+    "id": 2,
+    "name": "Priya Verma",
+    "age": 19,
+    "gender": "Female",
+    "email": "priya2@college.edu",
+    "phone": "9909960308",
+    "course": "B.Tech ECE",
+    "semester": 5,
+    "scholarship": "Need-based",
+    "skills": [
+      "C/C++",
+      "Data Science",
+      "Python"
+    ],
+    "hostel": false,
+    "address": "72, Model Town, Ludhiana",
+    "marks": {
+      "Maths": 48,
+      "Physics": 43,
+      "Programming": 27,
+      "English": 25
+    },
+    "attendance": 99
+  },
+  {
+    "id": 3,
+    "name": "Rohan Gupta",
+    "age": 23,
+    "gender": "Male",
+    "email": "rohan3@college.edu",
+    "phone": "9351819093",
+    "course": "BCA",
+    "semester": 7,
+    "scholarship": "Sports",
+    "skills": [
+      "Music",
+      "Data Science",
+      "Web Dev"
+    ],
+    "hostel": false,
+    "address": "39, Model Town, Ludhiana",
+    "marks": {
+      "Maths": 58,
+      "Physics": 76,
+      "Programming": 56,
+      "English": 73
+    },
+    "attendance": 77
+  },
+  {
+    "id": 4,
+    "name": "Sneha Iyer",
+    "age": 22,
+    "gender": "Female",
+    "email": "sneha4@college.edu",
+    "phone": "9487574911",
+    "course": "MCA",
+    "semester": 7,
+    "scholarship": "Merit",
+    "skills": [
+      "Public Speaking",
+      "Java",
+      "Web Dev"
+    ],
+    "hostel": false,
+    "address": "6, Model Town, Ludhiana",
+    "marks": {
+      "Maths": 50,
+      "Physics": 41,
+      "Programming": 22,
+      "English": 44
+    },
+    "attendance": 97
+  },
+  {
+    "id": 5,
+    "name": "Karan Singh",
+    "age": 24,
+    "gender": "Male",
+    "email": "karan5@college.edu",
+    "phone": "9555979711",
+    "course": "B.Tech ME",
+    "semester": 8,
+    "scholarship": "None",
+    "skills": [
+      "Python",
+      "Public Speaking",
+      "Sports"
+    ],
+    "hostel": false,
+    "address": "83, Model Town, Ludhiana",
+    "marks": {
+      "Maths": 69,
+      "Physics": 72,
+      "Programming": 77,
+      "English": 65
+    },
+    "attendance": 80
+  },
+  {
+    "id": 6,
+    "name": "Ananya Das",
+    "age": 21,
+    "gender": "Female",
+    "email": "ananya6@college.edu",
+    "phone": "9507529170",
+    "course": "B.Tech ECE",
+    "semester": 5,
+    "scholarship": "Merit",
+    "skills": [
+      "Web Dev",
+      "Music",
+      "Sports"
+    ],
+    "hostel": false,
+    "address": "11, Model Town, Ludhiana",
+    "marks": {
+      "Maths": 65,
+      "Physics": 74,
+      "Programming": 72,
+      "English": 77
+    },
+    "attendance": 79
+  },
+  {
+    "id": 7,
+    "name": "Vikram Rao",
+    "age": 19,
+    "gender": "Male",
+    "email": "vikram7@college.edu",
+    "phone": "9684656321",
+    "course": "B.Tech ECE",
+    "semester": 3,
+    "scholarship": "Merit",
+    "skills": [
+      "Web Dev",
+      "Python",
+      "Music"
+    ],
+    "hostel": true,
+    "address": "34, Model Town, Ludhiana",
+    "marks": {
+      "Maths": 80,
+      "Physics": 71,
+      "Programming": 75,
+      "English": 84
+    },
+    "attendance": 96
+  },
+  {
+    "id": 8,
+    "name": "Meera Nair",
+    "age": 22,
+    "gender": "Female",
+    "email": "meera8@college.edu",
+    "phone": "9952890786",
+    "course": "BCA",
+    "semester": 7,
+    "scholarship": "Need-based",
+    "skills": [
+      "Java",
+      "Web Dev",
+      "Public Speaking"
+    ],
+    "hostel": false,
+    "address": "8, Model Town, Ludhiana",
+    "marks": {
+      "Maths": 44,
+      "Physics": 40,
+      "Programming": 44,
+      "English": 52
+    },
+    "attendance": 72
+  },
+  {
+    "id": 9,
+    "name": "Arjun Patel",
+    "age": 20,
+    "gender": "Male",
+    "email": "arjun9@college.edu",
+    "phone": "9901092815",
+    "course": "MCA",
+    "semester": 1,
+    "scholarship": "None",
+    "skills": [
+      "Web Dev",
+      "Data Science",
+      "Music"
+    ],
+    "hostel": true,
+    "address": "82, Model Town, Ludhiana",
+    "marks": {
+      "Maths": 30,
+      "Physics": 52,
+      "Programming": 33,
+      "English": 41
+    },
+    "attendance": 85
+  },
+  {
+    "id": 10,
+    "name": "Simran Kaur",
+    "age": 18,
+    "gender": "Female",
+    "email": "simran10@college.edu",
+    "phone": "9177774121",
+    "course": "B.Sc Physics",
+    "semester": 6,
+    "scholarship": "Sports",
+    "skills": [
+      "Music",
+      "Sports",
+      "Public Speaking"
+    ],
+    "hostel": true,
+    "address": "67, Model Town, Ludhiana",
+    "marks": {
+      "Maths": 45,
+      "Physics": 51,
+      "Programming": 75,
+      "English": 75
+    },
+    "attendance": 95
+  },
+  {
+    "id": 11,
+    "name": "Rahul Mehta",
+    "age": 19,
+    "gender": "Male",
+    "email": "rahul11@college.edu",
+    "phone": "9808414852",
+    "course": "B.Tech ME",
+    "semester": 4,
+    "scholarship": "Sports",
+    "skills": [
+      "Web Dev",
+      "Data Science",
+      "Java"
+    ],
+    "hostel": true,
+    "address": "52, Model Town, Ludhiana",
+    "marks": {
+      "Maths": 61,
+      "Physics": 63,
+      "Programming": 45,
+      "English": 44
+    },
+    "attendance": 95
+  },
+  {
+    "id": 12,
+    "name": "Isha Kapoor",
+    "age": 20,
+    "gender": "Female",
+    "email": "isha12@college.edu",
+    "phone": "9004743957",
+    "course": "B.Sc Physics",
+    "semester": 6,
+    "scholarship": "Sports",
+    "skills": [
+      "Java",
+      "Music",
+      "Python"
+    ],
+    "hostel": true,
+    "address": "61, Model Town, Ludhiana",
+    "marks": {
+      "Maths": 52,
+      "Physics": 56,
+      "Programming": 52,
+      "English": 61
+    },
+    "attendance": 62
+  },
+  {
+    "id": 13,
+    "name": "Sung Jin Woo",
+    "age": 22,
+    "gender": "Male",
+    "email": "jinwoo@gmail.com",
+    "phone": "9189776546",
+    "course": "B.Tech CSE",
+    "semester": 1,
+    "scholarship": "Merit",
+    "skills": [
+      "Python",
+      "Java",
+      "C/C++",
+      "Public Speaking"
+    ],
+    "hostel": false,
+    "address": "Mohali, Punjab, Kharar",
+    "marks": {
+      "Maths": 0,
+      "Physics": 0,
+      "Programming": 0,
+      "English": 0
+    },
+    "attendance": 75
+  }
+]
